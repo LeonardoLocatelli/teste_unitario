@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: aluno
+  jpa:
+    show-sql: true
+    hibernate.ddl-auto: none
